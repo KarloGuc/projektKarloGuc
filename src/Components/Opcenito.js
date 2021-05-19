@@ -92,7 +92,7 @@ function Opcenito() {
 <i class="fa fa-caret-down"></i>
 </button>
 <div class="dropdown-content">
-<Link to ='/poveznica'>CJENIK</Link>
+<Link to ='/zadnja'>CJENIK</Link>
 
 </div>
 
