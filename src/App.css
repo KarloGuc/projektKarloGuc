@@ -1,0 +1,355 @@
+body{
+  background-color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+
+.nazad{
+  float: left;
+  color: darkgreen;
+}
+
+.nazad:visited{color: brown;}
+
+
+.nazad:hover{
+  color: darkmagenta;
+}
+
+.link2{
+  color: darkgreen;
+}
+
+.link2:visited{color: brown;}
+
+
+.link2:hover{
+  color: darkmagenta;
+}
+
+
+a{color: darkgreen;}
+a:hover{  color: darkmagenta;}
+
+p{color: darkblue;}
+
+.img{height: 150px; width: 150px;  float: right; margin-left: -50px;}
+
+.img2{height: 150px; width: 150px;  float: left; margin-right: -60px;}
+
+.da{
+  margin-right: px;
+}
+
+.p{
+  margin-right: 500px;
+}
+
+.ne{
+  margin-top: -70px;
+  margin-left: 100px;
+}
+
+.nz{
+  margin-left: 0px;
+}
+
+
+table {
+ 
+  width: 100%;
+}
+
+.da2{
+  width: 20%;
+}
+
+.da3{
+  width: 30%;
+  margin-left: 50px;
+  
+}
+
+.boja{
+  background-color: lightgreen;
+  width: 100%;
+  height: 110px;
+
+}
+
+.druga{
+  margin-top:0px;
+  font-size: 40px;
+}
+
+.druga:hover{
+  color: red;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: lightgreen;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+  
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  
+  text-decoration: underline;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+body {
+   margin:0;
+   padding:0;
+  }
+
+.treca{
+  margin-top: 15;
+  
+}
+
+.navbar1 {
+  overflow: hidden;
+  background-color: lightgreen;
+  float: right;
+  margin-top: -95px; 
+  
+}
+
+.navbar2 {
+  overflow: hidden;
+  background-color: lightgreen;
+  margin-top: -95px; 
+  margin-left: 837px;
+}
+
+.mozda{
+  width:100%;
+  height:500px;
+  
+  
+
+
+}
+
+.mozda1{
+  background-image: url("velebit3.jpg");
+  height:100px;
+
+}
+
+.mozda2{
+  background-image: url("spilj.jpg");
+  height:100px;
+
+}
+
+.mozda3{
+  background-image: url("velebit3.jpg");
+  height:100px;
+
+}
+
+.mozda4{
+  background-image: url("da.jpg");
+  height:100px;
+
+}
+
+.cetv{
+text-align: left;
+margin-top: 0px;
+width: 50%;
+font-family: Noto Sans, sans-serif;
+}
+
+.sest{
+  height:400px;
+  text-align: left;
+  width: 100%;
+  background-color:#282828;
+}
+
+.sed{
+  margin-top: 0px;
+  float: right;
+  margin-right: -25px;
+  width: 170px;
+}
+
+.sed:hover{
+  width: 170px;
+  -webkit-transform: scale(1.2,1.2 );
+}
+
+.osam{
+  width: 33.3%;
+}
+
+.dev{
+  width: 33.3%;
+  width: 170px;
+}
+
+.dest{
+  width: 33.3%;
+}
+
+#div{
+  background-color: gren;
+}
+
+.slika{
+  width: 170px;
+
+}
+
+.slika:hover{
+  width: 170px;
+  -webkit-transform: scale(1.2,1.2 );
+}
+
+.a{
+  margin-top: -500px;
+}
+
+.slika2{
+  width: 800px;
+  height: 700px;
+  margin-right: 50px;
+  
+}
+.p{
+  margin-right: 50px;
+  
+}
+
+.p:hover{
+  color:red;
+}
+
+.cvijet{
+  width: 300px;
+}
+
+.p1{
+  text-align: left;
+margin-right: 160px;
+width: 50%;
+float: right;
+margin-top: -3px;
+color:black;
+font-family: cursive;
+
+}
+
+.c{
+  list-style-type: decimal;
+ 
+}
+
+.s{
+  list-style-type: inherit;
+}
+
+.nak{
+  margin-right: -50 px;
+}
+
+.niko{
+  height: 300px;
+  float: left;
+}
+
+.btn-group .button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  float: left;
+  margin-left: 50px;
+}
+
+.btn-group .button:hover {
+  background-color: #3e8e41;
+}
+
+.head{
+  font-size: 50px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.znam{
+  color: blue;
+  
+}
+
+
+.karlo{
+  font-family: American Typewriter, serif;
+}
+
+.guc{
+  font-family: Trebuchet MS, sans-serif;
+}
+
+.guc1{
+  font-family: Noto Sans, sans-serif;
+  color: black;
+}
